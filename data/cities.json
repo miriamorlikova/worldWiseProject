@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Prague",
+      "country": "Czech Republic",
+      "emoji": "🇨🇿",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 50.0755381,
+        "lng": 14.4378005
+      },
+      "id": "73930386"
+    },
+    {
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 41.385063,
+        "lng": 2.173404
+      },
+      "id": "17806755"
+    },
+    {
+      "id": "9e78",
+      "cityName": "Kosice",
+      "country": "Slovakia",
+      "emoji": "🇸🇰",
+      "date": "2024-05-08T13:47:42.342Z",
+      "notes": "",
+      "position": {
+        "lat": "48.702460113629364",
+        "lng": "21.263153120457165"
+      }
+    },
+    {
+      "id": "961b",
+      "cityName": "Lerma",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-09T17:47:51.101Z",
+      "notes": "as",
+      "position": {
+        "lat": "41.90033776701017",
+        "lng": "-3.842909402984987"
+      }
+    },
+    {
+      "id": "139a",
+      "cityName": "Miedes de Aragon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-11T13:58:39.147Z",
+      "notes": "",
+      "position": {
+        "lat": "41.27558447815627",
+        "lng": "-1.4250662138603178"
+      }
+    }
+  ]
+}
